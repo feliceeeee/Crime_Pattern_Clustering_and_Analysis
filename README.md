@@ -1,1 +1,5 @@
-# Crime_Pattern_Clustering_and_Analysis
+**Crime Pattern Analysis Using K-Means Clustering (Bangladesh Crime Dataset)**
+
+Developed a data-driven crime analysis solution to identify patterns of criminal incidents across Bangladesh using the **Bangladesh Crime Dataset**. The project involved analyzing crime records together with demographic, environmental, and geographic attributes to uncover meaningful insights that could support data-informed policing strategies. A complete analytics pipeline was implemented, including data quality assessment, exploratory data analysis (EDA), preprocessing, feature selection, and data transformation to prepare the dataset for clustering.
+
+Crime patterns were identified using **K-Means Clustering**, with the optimal number of clusters determined through quantitative evaluation metrics before visualizing and profiling each cluster. The resulting cluster profiles revealed distinct characteristics of different crime groups based on temporal, geographic, environmental, and population-related factors, providing actionable insights for understanding crime distribution and supporting strategic decision-making. This project strengthened my practical experience in **exploratory data analysis, unsupervised machine learning, cluster analysis, feature engineering, and transforming complex datasets into meaningful business insights**.
